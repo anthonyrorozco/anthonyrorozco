@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data Sciences
 - 🌱 I’m currently learning ... Python and SQL  
 - 💞️ I’m looking to collaborate on ... Nothing yet 
-- 📫 How to reach me ... AnthonyRorozco119@gmail.com
+- 📫 How to reach me ... AnthonyRorozco119@gmail.com || https://www.linkedin.com/in/anthonyrorozco/
 
 <!---
 anthonyrorozco/anthonyrorozco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
